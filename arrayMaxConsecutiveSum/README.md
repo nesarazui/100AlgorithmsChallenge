@@ -14,7 +14,7 @@ All possible sums of 2 consecutive elements are:
 -   5 + 1 = 6;
 -   1 + 6 = 7.
 
-   Thus, the answer is 8
+   Thus, the answer is 8 
 
 **Input/Output**
 
